@@ -1,5 +1,5 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
 1,map1610,0.5,0.5,1,,Where are we? When are we?,"We are in Cartagena de Indias, a city on the Caribbean coast of the New Kingdom of Granada, which is Colombia today. This map was made in 1610.",,,,,,,,
-2,map1610,0.2010994916103484,0.8596645707653136,1.226106696935301,,What is in the city?,The legend lists places you might find in the city. [[transcribe list]],,,,,,,,
+2,map1610,0.2010994916103484,0.8596645707653136,1.226106696935301,,What is in the city?,The legend lists places you might find in the city. TODO: transcribe list,,,,,,,,
 3,map1610,0.5027395751186142,0.5838894114972404,1.226106696935301,,Where are city landmarks found?,"They are found in the center of the city, which also functioned as the center of daily life. ",,,,,,,,
